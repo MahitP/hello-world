@@ -35,9 +35,23 @@ The program defines a `HelloWorld` class. When executed, it:
 
 ## 🚀 Getting Started
 
+### Run the program:
+
 ### Prerequisites
 - Java Development Kit (JDK 8 or higher)
 
 ### Compile
-```bash id="k4n8zd"
 javac HelloWorld.java
+
+### Run the program:
+java HelloWorld
+
+## 💻 Expected Output
+Hello World
+
+## 📁 Project Structure
+HelloWorld.java   # Main application file
+
+## 🎯 Purpose
+
+This project serves as a foundational step in learning Java and understanding core object-oriented programming principles. It provides a base for building more advanced applications in the future.
